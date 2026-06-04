@@ -196,7 +196,7 @@ Titanic-Survival-Prediction
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/kisothana0805/Task-1-Kisothana.git
+git clone https://github.com/kisothana0805/DecodeLabs-Internship.git
 ```
 
 ### Install Required Libraries
